@@ -1,25 +1,49 @@
-State,year,speeding,alcohol,,,,,,,
-Ohio,2010,321,1080,,,,,,,
-Ohio,2011,299,1017,,,,,,,
-Ohio,2012,354,1121,,,,,,,
-Ohio,2013,273,989,,,,,,,
-Ohio,2014,274,1006,,,,,,,
-Ohio,2015,207,1110,,,,,,,
-Ohio,2016,257,1132,,,,,,,
-Ohio,2017,252,1179,,,,,,,
-South Carolina,2010,288,809,,,,,,,
-South Carolina,2011,278,828,,,,,,,
-South Carolina,2012,322,863,,,,,,,
-South Carolina,2013,305,767,,,,,,,
-South Carolina,2014,307,823,,,,,,,
-South Carolina,2015,366,979,,,,,,,
-South Carolina,2016,393,1020,,,,,,,
-South Carolina,2017,416,988,,,,,,,
-Tennessee,2010,229,1032,,,,,,,
-Tennessee,2011,215,937,,,,,,,
-Tennessee,2012,197,1051,,,,,,,
-Tennessee,2013,239,995,,,,,,,
-Tennessee,2014,220,963,,,,,,,
-Tennessee,2015,189,962,,,,,,,
-Tennessee,2016,183,1037,,,,,,,
-Tennessee,2017,166,1040,,,,,,,
+State,year,factors,deaths
+Ohio,2010,Speeding,321
+Ohio,2011,Speeding,299
+Ohio,2012,Speeding,354
+Ohio,2013,Speeding,273
+Ohio,2014,Speeding,274
+Ohio,2015,Speeding,207
+Ohio,2016,Speeding,257
+Ohio,2017,Speeding,252
+Ohio,2010,alcohol,1080
+Ohio,2011,alcohol,1017
+Ohio,2012,alcohol,1121
+Ohio,2013,alcohol,989
+Ohio,2014,alcohol,1006
+Ohio,2015,alcohol,1110
+Ohio,2016,alcohol,1132
+Ohio,2017,alcohol,1179
+South Carolina,2010,Speeding,288
+South Carolina,2011,Speeding,278
+South Carolina,2012,Speeding,322
+South Carolina,2013,Speeding,305
+South Carolina,2014,Speeding,307
+South Carolina,2015,Speeding,366
+South Carolina,2016,Speeding,393
+South Carolina,2017,Speeding,416
+South Carolina,2010,alcohol,809
+South Carolina,2011,alcohol,828
+South Carolina,2012,alcohol,863
+South Carolina,2013,alcohol,767
+South Carolina,2014,alcohol,832
+South Carolina,2015,alcohol,979
+South Carolina,2016,alcohol,1020
+South Carolina,2017,alcohol,988
+Tennessee,2010,Speeding,229
+Tennessee,2011,Speeding,215
+Tennessee,2012,Speeding,197
+Tennessee,2013,Speeding,239
+Tennessee,2014,Speeding,220
+Tennessee,2015,Speeding,189
+Tennessee,2016,Speeding,183
+Tennessee,2017,Speeding,166
+Tennessee,2010,alcohol,1032
+Tennessee,2011,alcohol,937
+Tennessee,2012,alcohol,1051
+Tennessee,2013,alcohol,995
+Tennessee,2014,alcohol,963
+Tennessee,2015,alcohol,962
+Tennessee,2016,alcohol,1037
+Tennessee,2017,alcohol,1040
