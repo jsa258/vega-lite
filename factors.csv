@@ -1,49 +1,49 @@
 State,year,factors,deaths,Weather,Category,Time ,accidents,top 3 states,Vehicle Type,Number of crashes 
-Ohio,2010,Speeding,321,Normal,fatal crashes,Daylight,13732,Ohio,bicycle,22
-Ohio,2011,Speeding,299,Normal,fatal crashes,Dark but lighted,5492,Ohio,SUV,251
-Ohio,2012,Speeding,354,Normal,fatal crashes,Dark ,7808,Ohio,Truck,23
-Ohio,2013,Speeding,273,Normal,fatal crashes,Dawn or dusk,1161,Ohio,Motorcycle,145
-Ohio,2014,Speeding,274,Rain,fatal crashes,Daylight,1007,Ohio,Car,469
-Ohio,2015,Speeding,207,Rain,fatal crashes,Dark but lighted,552,South Carolina,bicycle,23
-Ohio,2016,Speeding,257,Rain,fatal crashes,Dark ,788,South Carolina,SUV,285
-Ohio,2017,Speeding,252,Rain,fatal crashes,Dawn or dusk,106,South Carolina,Truck,16
-Ohio,2010,alcohol,1080,Snow/Sleet,fatal crashes,Daylight,219,South Carolina,Motorcycle,141
-Ohio,2011,alcohol,1017,Snow/Sleet,fatal crashes,Dark but lighted,44,South Carolina,Car,389
-Ohio,2012,alcohol,1121,Snow/Sleet,fatal crashes,Dark ,128,Tennessee,bicycle,8
-Ohio,2013,alcohol,989,Snow/Sleet,fatal crashes,Dawn or dusk,19,Tennessee,SUV,284
-Ohio,2014,alcohol,1006,Other weather,fatal crashes,Daylight,140,Tennessee,Truck,17
-Ohio,2015,alcohol,1110,Other weather,fatal crashes,Dark but lighted,102,Tennessee,Motorcycle,168
-Ohio,2016,alcohol,1132,Other weather,fatal crashes,Dark ,270,Tennessee,Car,402
-Ohio,2017,alcohol,1179,Other weather,fatal crashes,Dawn or dusk,53,,,
-South Carolina,2010,Speeding,288,Normal,injury crashes,Daylight,1191000,,,
-South Carolina,2011,Speeding,278,Normal,injury crashes,Dark but lighted,262000,,,
-South Carolina,2012,Speeding,322,Normal,injury crashes,Dark ,152000,,,
-South Carolina,2013,Speeding,305,Normal,injury crashes,Dawn or dusk,61000,,,
-South Carolina,2014,Speeding,307,Rain,injury crashes,Daylight,114000,,,
-South Carolina,2015,Speeding,366,Rain,injury crashes,Dark but lighted,32000,,,
-South Carolina,2016,Speeding,393,Rain,injury crashes,Dark ,20000,,,
-South Carolina,2017,Speeding,416,Rain,injury crashes,Dawn or dusk,8000,,,
-South Carolina,2010,alcohol,809,Snow/Sleet,injury crashes,Daylight,18000,,,
-South Carolina,2011,alcohol,828,Snow/Sleet,injury crashes,Dark but lighted,7000,,,
-South Carolina,2012,alcohol,863,Snow/Sleet,injury crashes,Dark ,8000,,,
-South Carolina,2013,alcohol,767,Snow/Sleet,injury crashes,Dawn or dusk,1000,,,
-South Carolina,2014,alcohol,832,Other weather,injury crashes,Daylight,6000,,,
-South Carolina,2015,alcohol,979,Other weather,injury crashes,Dark but lighted,1000,,,
-South Carolina,2016,alcohol,1020,Other weather,injury crashes,Dark ,2000,,,
-South Carolina,2017,alcohol,988,Other weather,injury crashes,Dawn or dusk,2000,,,
-Tennessee,2010,Speeding,229,Normal,property damage only crashes,Daylight,2785000,,,
-Tennessee,2011,Speeding,215,Normal,property damage only crashes,Dark but lighted,546000,,,
-Tennessee,2012,Speeding,197,Normal,property damage only crashes,Dark ,431000,,,
-Tennessee,2013,Speeding,239,Normal,property damage only crashes,Dawn or dusk,160000,,,
-Tennessee,2014,Speeding,220,Rain,property damage only crashes,Daylight,281000,,,
-Tennessee,2015,Speeding,189,Rain,property damage only crashes,Dark but lighted,82000,,,
-Tennessee,2016,Speeding,183,Rain,property damage only crashes,Dark ,61000,,,
-Tennessee,2017,Speeding,166,Rain,property damage only crashes,Dawn or dusk,22000,,,
-Tennessee,2010,alcohol,1032,Snow/Sleet,property damage only crashes,Daylight,63000,,,
-Tennessee,2011,alcohol,937,Snow/Sleet,property damage only crashes,Dark but lighted,27000,,,
-Tennessee,2012,alcohol,1051,Snow/Sleet,property damage only crashes,Dark ,29000,,,
-Tennessee,2013,alcohol,995,Snow/Sleet,property damage only crashes,Dawn or dusk,8000,,,
-Tennessee,2014,alcohol,963,Other weather,property damage only crashes,Daylight,13000,,,
-Tennessee,2015,alcohol,962,Other weather,property damage only crashes,Dark but lighted,5000,,,
-Tennessee,2016,alcohol,1037,Other weather,property damage only crashes,Dark ,9000,,,
-Tennessee,2017,alcohol,1040,Other weather,property damage only crashes,Dawn or dusk,4000,,,
+California,2010,Speeding,925,Normal,fatal crashes,Daylight,13732,California,bicycle,154
+California,2011,Speeding,898,Normal,fatal crashes,Dark but lighted,5492,California,SUV,654
+California,2012,Speeding,954,Normal,fatal crashes,Dark ,7808,California,Truck,38
+California,2013,Speeding,992,Normal,fatal crashes,Dawn or dusk,1161,California,Motorcycle,488
+California,2014,Speeding,995,Rain,fatal crashes,Daylight,1007,California,Car,1248
+California,2015,Speeding,1032,Rain,fatal crashes,Dark but lighted,552,Florida,bicycle,160
+California,2016,Speeding,1151,Rain,fatal crashes,Dark ,788,Florida,SUV,562
+California,2017,Speeding,1070,Rain,fatal crashes,Dawn or dusk,106,Florida,Truck,42
+California,2010,alcohol,2720,Snow/Sleet,fatal crashes,Daylight,219,Florida,Motorcycle,574
+California,2011,alcohol,2816,Snow/Sleet,fatal crashes,Dark but lighted,44,Florida,Car,1009
+California,2012,alcohol,2966,Snow/Sleet,fatal crashes,Dark ,128,Texas,bicycle,69
+California,2013,alcohol,3107,Snow/Sleet,fatal crashes,Dawn or dusk,19,Texas,SUV,191
+California,2014,alcohol,3102,Other weather,fatal crashes,Daylight,140,Texas,Truck,98
+California,2015,alcohol,3387,Other weather,fatal crashes,Dark but lighted,102,Texas,Motorcycle,416
+California,2016,alcohol,3837,Other weather,fatal crashes,Dark ,270,Texas,Car,1160
+California,2017,alcohol,3602,Other weather,fatal crashes,Dawn or dusk,53,,,
+Florida,2010,Speeding,457,Normal,injury crashes,Daylight,1191000,,,
+Florida,2011,Speeding,298,Normal,injury crashes,Dark but lighted,262000,,,
+Florida,2012,Speeding,366,Normal,injury crashes,Dark ,152000,,,
+Florida,2013,Speeding,346,Normal,injury crashes,Dawn or dusk,61000,,,
+Florida,2014,Speeding,245,Rain,injury crashes,Daylight,114000,,,
+Florida,2015,Speeding,320,Rain,injury crashes,Dark but lighted,32000,,,
+Florida,2016,Speeding,310,Rain,injury crashes,Dark ,20000,,,
+Florida,2017,Speeding,299,Rain,injury crashes,Dawn or dusk,8000,,,
+Florida,2010,alcohol,2444,Snow/Sleet,injury crashes,Daylight,18000,,,
+Florida,2011,alcohol,2400,Snow/Sleet,injury crashes,Dark but lighted,7000,,,
+Florida,2012,alcohol,2431,Snow/Sleet,injury crashes,Dark ,8000,,,
+Florida,2013,alcohol,2403,Snow/Sleet,injury crashes,Dawn or dusk,1000,,,
+Florida,2014,alcohol,2494,Other weather,injury crashes,Daylight,6000,,,
+Florida,2015,alcohol,2983,Other weather,injury crashes,Dark but lighted,1000,,,
+Florida,2016,alcohol,3176,Other weather,injury crashes,Dark ,2000,,,
+Florida,2017,alcohol,3112,Other weather,injury crashes,Dawn or dusk,2000,,,
+Texas,2010,Speeding,1205,Normal,property damage only crashes,Daylight,2785000,,,
+Texas,2011,Speeding,1177,Normal,property damage only crashes,Dark but lighted,546000,,,
+Texas,2012,Speeding,1251,Normal,property damage only crashes,Dark ,431000,,,
+Texas,2013,Speeding,1181,Normal,property damage only crashes,Dawn or dusk,160000,,,
+Texas,2014,Speeding,1277,Rain,property damage only crashes,Daylight,281000,,,
+Texas,2015,Speeding,1125,Rain,property damage only crashes,Dark but lighted,82000,,,
+Texas,2016,Speeding,1076,Rain,property damage only crashes,Dark ,61000,,,
+Texas,2017,Speeding,1029,Rain,property damage only crashes,Dawn or dusk,22000,,,
+Texas,2010,alcohol,3023,Snow/Sleet,property damage only crashes,Daylight,63000,,,
+Texas,2011,alcohol,3054,Snow/Sleet,property damage only crashes,Dark but lighted,27000,,,
+Texas,2012,alcohol,3408,Snow/Sleet,property damage only crashes,Dark ,29000,,,
+Texas,2013,alcohol,3389,Snow/Sleet,property damage only crashes,Dawn or dusk,8000,,,
+Texas,2014,alcohol,3536,Other weather,property damage only crashes,Daylight,13000,,,
+Texas,2015,alcohol,3582,Other weather,property damage only crashes,Dark but lighted,5000,,,
+Texas,2016,alcohol,3797,Other weather,property damage only crashes,Dark ,9000,,,
+Texas,2017,alcohol,3722,Other weather,property damage only crashes,Dawn or dusk,4000,,,
