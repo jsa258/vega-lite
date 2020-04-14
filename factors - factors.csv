@@ -11,13 +11,9 @@ California,2010,alcohol,2720,Snow/Sleet,fatal crashes,Daylight,219,Florida,Motor
 California,2011,alcohol,2816,Snow/Sleet,fatal crashes,Dark but lighted,44,Florida,Car,1009
 California,2012,alcohol,2966,Snow/Sleet,fatal crashes,Dark,128,Texas,bicycle,69
 California,2013,alcohol,3107,Snow/Sleet,fatal crashes,Dawn or dusk,19,Texas,SUV,191
-California,2014,alcohol,3102,Other weather,fatal crashes,Daylight,140,Texas,Truck,98
-California,2015,alcohol,3387,Other weather,fatal crashes,Dark but lighted,102,Texas,Motorcycle,416
-California,2016,alcohol,3837,Other weather,fatal crashes,Dark,270,Texas,Car,1160
-California,2017,alcohol,3602,Other weather,fatal crashes,Dawn or dusk,53,,,
-Florida,2010,Speeding,457,Normal,injury crashes,Daylight,1191000,,,
-Florida,2011,Speeding,298,Normal,injury crashes,Dark but lighted,262000,,,
-Florida,2012,Speeding,366,Normal,injury crashes,Dark,152000,,,
+Florida,2010,Speeding,457,Normal,injury crashes,Daylight,1191000,Texas,Truck,98
+Florida,2011,Speeding,298,Normal,injury crashes,Dark but lighted,262000,Texas,Motorcycle,416
+Florida,2012,Speeding,366,Normal,injury crashes,Dark,152000,Texas,Car,1160
 Florida,2013,Speeding,346,Normal,injury crashes,Dawn or dusk,61000,,,
 Florida,2014,Speeding,245,Rain,injury crashes,Daylight,114000,,,
 Florida,2015,Speeding,320,Rain,injury crashes,Dark but lighted,32000,,,
@@ -27,10 +23,6 @@ Florida,2010,alcohol,2444,Snow/Sleet,injury crashes,Daylight,18000,,,
 Florida,2011,alcohol,2400,Snow/Sleet,injury crashes,Dark but lighted,7000,,,
 Florida,2012,alcohol,2431,Snow/Sleet,injury crashes,Dark,8000,,,
 Florida,2013,alcohol,2403,Snow/Sleet,injury crashes,Dawn or dusk,1000,,,
-Florida,2014,alcohol,2494,Other weather,injury crashes,Daylight,6000,,,
-Florida,2015,alcohol,2983,Other weather,injury crashes,Dark but lighted,1000,,,
-Florida,2016,alcohol,3176,Other weather,injury crashes,Dark,2000,,,
-Florida,2017,alcohol,3112,Other weather,injury crashes,Dawn or dusk,2000,,,
 Texas,2010,Speeding,1205,Normal,property damage only crashes,Daylight,2785000,,,
 Texas,2011,Speeding,1177,Normal,property damage only crashes,Dark but lighted,546000,,,
 Texas,2012,Speeding,1251,Normal,property damage only crashes,Dark,431000,,,
@@ -43,7 +35,3 @@ Texas,2010,alcohol,3023,Snow/Sleet,property damage only crashes,Daylight,63000,,
 Texas,2011,alcohol,3054,Snow/Sleet,property damage only crashes,Dark but lighted,27000,,,
 Texas,2012,alcohol,3408,Snow/Sleet,property damage only crashes,Dark,29000,,,
 Texas,2013,alcohol,3389,Snow/Sleet,property damage only crashes,Dawn or dusk,8000,,,
-Texas,2014,alcohol,3536,Other weather,property damage only crashes,Daylight,13000,,,
-Texas,2015,alcohol,3582,Other weather,property damage only crashes,Dark but lighted,5000,,,
-Texas,2016,alcohol,3797,Other weather,property damage only crashes,Dark,9000,,,
-Texas,2017,alcohol,3722,Other weather,property damage only crashes,Dawn or dusk,4000,,,
